@@ -1,0 +1,9 @@
+Building WildBeastBitcoin
+
+See doc/readme-qt.rst for instructions on building WildBeastBitcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of WildBeastBitcoin.
+
+See doc/build-*.txt for instructions on building wildbeastbitcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of WildBeastBitcoin.
