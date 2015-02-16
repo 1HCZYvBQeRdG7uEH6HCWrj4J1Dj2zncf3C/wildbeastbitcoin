@@ -14,7 +14,7 @@ WildBeastBitcoin is a lite version of Bitcoin using scrypt as a proof-of-work al
  - subsidy halves in 262800 blocks (~2 years)
  - ~2.628 million total coins
  - 5 coins per block
- - 1 days to retarget difficulty with KGW and Time Warp fix
+ - Retarget difficulty with KGW and Time Warp fix
  - RPCPORT: 22791
  - P2PPORT: 22793
 
