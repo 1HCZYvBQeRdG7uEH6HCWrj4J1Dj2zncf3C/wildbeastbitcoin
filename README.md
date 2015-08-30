@@ -10,11 +10,11 @@ What is WildBeastBitcoin?
 ----------------
 
 WildBeastBitcoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
- - 4 minute block targets
- - subsidy halves in 262800 blocks (~2 years)
+ - 4 minute block targets (after block 66600 1 minute)
+ - subsidy halves in 262800 blocks (~2 years) (after block 66600 every half year)
  - ~2.628 million total coins
  - 5 coins per block
- - Retarget difficulty with KGW and Time Warp fix
+ - Retarget difficulty with KGW and Time Warp fix (after block 66600 DGW3)
  - RPCPORT: 22791
  - P2PPORT: 22793
 
